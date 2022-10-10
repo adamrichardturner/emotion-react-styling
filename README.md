@@ -1,6 +1,23 @@
-# Getting Started with Create React App
+# Emotion React Styling
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project explores CSS-in-JS styling with Emotion via the @emotion/css and @emotion/styled packages on a simple React application made with Create React App.
+
+It features:
+
+- Exploration of the css prop with object or tagged template literal styling.
+- Object styles
+- String styles
+- Styled Components
+- Theming
+- Keyframes / Animation with CSS-in-JS
+
+## Getting Started
+
+Clone the project, in the project root run:
+
+### `npm install`
+
+Then the following scripts are available, to view the project run npm start script.
 
 ## Available Scripts
 
@@ -44,27 +61,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
